@@ -14,3 +14,6 @@
 .image-size-cart{
     width: 20%;
 }
+.list-items{
+    list-style: none;
+}

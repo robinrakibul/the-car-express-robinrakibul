@@ -13,8 +13,8 @@ const Cart = (props) => {
              <p className='items'>Selected Cars: {quantity}</p>
              
             {cart.map(product => (     
-            <li>  
-                <img className='image-size-cart' src={product.image} alt="" /> {product.title}
+            <li className='list-items' key={product.id}>  
+                <p className='p-1'><img className='image-size-cart' src={product.image} alt="" /> {product.title}</p>
             </li>  
             ))
             }  
