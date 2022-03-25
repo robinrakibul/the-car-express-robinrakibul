@@ -13,7 +13,6 @@ const CarShop = () => {
     }, []);
 
     const addToCart = (props) =>{
-        console.log(props);
         let newCart = [];
         const exists = cart.find(product => product.id === props.id);
         if(!exists){
@@ -28,6 +27,7 @@ const CarShop = () => {
         
         setCart(newCart);
     }
+    
     
     return (
         <div className='shop-container'>
