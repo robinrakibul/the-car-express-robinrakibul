@@ -1,0 +1,7 @@
+.selected-items{
+    background-color: rgb(156, 156, 156);
+    position: sticky;
+    top: 0;
+    padding: 40px;
+    margin-right: 30px;
+}
