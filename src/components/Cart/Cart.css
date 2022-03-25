@@ -5,3 +5,8 @@
     padding: 40px;
     margin-right: 30px;
 }
+.items{
+    background-color: rgb(156, 156, 156);
+    font-size: 19px;
+    font-weight: 500;
+}

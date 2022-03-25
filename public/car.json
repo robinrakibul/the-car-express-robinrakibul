@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "Nissan Versa",
+    "price": 16205,
+    "description": "The Nissan Versa is a great choice for the budget minded as well as college students and city dwellers, with impressive fuel economy and suite of modern safety tech. It's an attractive alternative to buying pre-owned. The Versa also has some of the most comfortable seats in the segment. The Nissan Versa is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the SV CVT, which starts at $19,015 and comes with a 1.6L I4 engine and Front Wheel Drive. This Versa is estimated to deliver 32 MPG in the city and 40 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/484421641201ffb0/2022-Nissan-Versa-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 2,
+    "title": "Chevrolet Spark",
+    "price": 15283,
+    "description": "Armed with a low base price, superb fuel economy, and a relatively generous range of tech features, the 2022 Chevrolet Spark is a strong pick if you're looking for affordable transportation. Still, the car has some drawbacks: cargo space is relatively tight, and there are few available safety features. The Chevrolet Spark is a 4-seater vehicle that comes in 4 trim levels. The most popular style is the 2LT Manual, which starts at $17,995 and comes with a 1.4L I4 engine and Front Wheel Drive. This Spark is estimated to deliver 29 MPG in the city and 38 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/a1349e99a7d0f448/2022-Chevrolet-Spark-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 3,
+    "title": "Kia Rio",
+    "price": 17275,
+    "description": "One of the least-expensive new cars on the market, the Kia Rio offers impressive quality and features for the price. Available as a sporty sedan or hatchback, it blends a smooth ride and agile handling to provide a refined driving experience. The Rio's cabin is sporty and user-friendly, and commuters will appreciate its EPA-estimated 41 mpg highway. The back seat is not as roomy as some, but the little Kia's strengths make it a serious value. The Kia Rio is a 5-seater vehicle that comes in 2 trim levels. The most popular style is the S Sedan IVT, which starts at $17,915 and comes with a 1.6L I4 engine and Front Wheel Drive. This Rio is estimated to deliver 33 MPG in the city and 41 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/af5dbb8f961c8d01/2022-Kia-Rio-gray-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 4,
+    "title": "Mitsubishi Mirage",
+    "price": 15840,
+    "description": "Few other small cars can compete with the Mitsubishi Mirage in the areas of affordability and long warranty coverage. However, an outdated design and lackluster engine hold back the Mirage from stardom. The Mitsubishi Mirage is a 5-seater vehicle that comes in 4 trim levels. The most popular style is the G4 ES Manual, which starts at $16,840 and comes with a 1.2L I3 engine and Front Wheel Drive. This Mirage is estimated to deliver 33 MPG in the city and 40 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/e9c679059bc536ed/2022-Mitsubishi-Mirage-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 5,
+    "title": "Hyundai Accent",
+    "price": 17690,
+    "description": "With its affordable pricing, generous warranty coverage, and agreeable handling, the Hyundai Accent offers substantial value. However, keep in mind that other models in this segment have more room for cargo and a broader range of safety features. The Hyundai Accent is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the SE, which starts at $17,690 and comes with a 1.6L I4 engine and Front Wheel Drive. This Accent is estimated to deliver 33 MPG in the city and 41 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/7fa4fda1d5abbb22/2022-Hyundai-Accent-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 6,
+    "title": "Hyundai Elantra",
+    "price": 20995,
+    "description": "After a striking makeover last year, the Hyundai Elantra reasserts itself as a leading compact sedan. It provides one of the most spacious cabins in its class, generous standard features, and a wide variety of engines, including performance and hybrid models. The Hyundai Elantra is a 5-seater vehicle that comes in 7 trim levels. The most popular style is the SEL IVT, which starts at $22,245 and comes with a 2.0L I4 engine and Front Wheel Drive. This Elantra is estimated to deliver 31 MPG in the city and 41 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/61db043260e442d7/2022-Hyundai-Elantra-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 7,
+    "title": "Kia Forte",
+    "price": 20115,
+    "description": "The Kia Forte stands out in a crowded segment as a strong value, offering a solid mix of stylish design, excellent fuel economy, and a class-leading warranty. The Kia Forte is a 5-seater vehicle that comes in 4 trim levels. The most popular style is the LXS IVT, which starts at $20,615 and comes with a 2.0L I4 engine and Front Wheel Drive. This Forte is estimated to deliver 29 MPG in the city and 39 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/d0eba253599636f4/2022-Kia-Forte-gray-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 8,
+    "title": "Nissan Sentra",
+    "price": 20635,
+    "description": "The Nissan Sentra is a 5-seater vehicle that comes in 3 trim levels. The most popular style is the SV CVT, which starts at $21,695 and comes with a 2.0L I4 engine and Front Wheel Drive. This Sentra is estimated to deliver 29 MPG in the city and 39 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/6fd51134ae13bd52/2022-Nissan-Sentra-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 9,
+    "title": "Kia Soul",
+    "price": 20505,
+    "description": "In a world of bland crossovers, the 2022 Kia Soul stands out with its boxy shape, appealing personality, and roomy interior. It’s also a strong performer, especially when equipped with the available turbocharged engine. The Kia Soul is a 5-seater vehicle that comes in 6 trim levels. The most popular style is the LX IVT, which starts at $20,505 and comes with a 2.0L I4 engine and Front Wheel Drive. This Soul is estimated to deliver 29 MPG in the city and 35 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/474579aa13a3ddf8/2022-Kia-Soul-gray-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 10,
+    "title": "Volkswagen Jetta",
+    "price": 21190,
+    "description": "The Volkswagen Jetta sedan delivers good bang for the buck for buyers looking for a fuel-efficient, fun-to-drive European driving experience. The Volkswagen Jetta is a 5-seater vehicle that comes in 5 trim levels. The most popular style is the SE Automatic, which starts at $24,790 and comes with a 1.5L I4 Turbo engine and Front Wheel Drive. This Jetta is estimated to deliver 29 MPG in the city and 40 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/fe186b97c352f725/2022-Volkswagen-Jetta-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 11,
+    "title": "2022 Honda Civic",
+    "price": 23365,
+    "description": "The 2022 Honda Civic offers the latest remix of the ingredients that have made it one of America's most popular cars for decades. Nothing is startlingly new, but this Civic has enough improvements to give it an edge over the competition. The Honda Civic is a 5-seater vehicle that comes in 7 trim levels. The most popular style is the Sport Sedan CVT, which starts at $24,765 and comes with a 2.0L I4 engine and Front Wheel Drive. This Civic is estimated to deliver 30 MPG in the city and 37 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/f8cdff4f61969d14/2022-Honda-Civic-silver-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 12,
+    "title": "Hyundai Ioniq",
+    "price": 24645,
+    "description": "A solid, down-the-middle hybrid, also available as a plug-in version, the Hyundai Ioniq checks all the requisite fuel-sipper boxes: aerodynamic styling, plenty of standard features, nearly 60-mpg fuel economy, and a starting price of less than $25,000. It lacks some of the refinement of its main rivals, but it's still a comfortable, efficient commuter. The Hyundai Ioniq is a 5-seater vehicle that comes in 7 trim levels. The most popular style is the Hybrid SE, which starts at $26,595 and comes with a Hybrid 1.6L I4 engine and Front Wheel Drive. This Ioniq is estimated to deliver 54 MPG in the city and 57 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/cb82b2af5db90f8e/2022-Hyundai-Ioniq-white-full_color-driver_side_front_quarter.png"
+  },
+  {
+    "id": 13,
+    "title": "Toyota Corolla",
+    "price": 21200,
+    "description": "The Toyota Corolla has long been the go-to for reliable transportation at a low price, and the current version is no different. It offers lots of standard features, a comfortable interior, and great fuel efficiency, but it's not very fun to drive and cargo space is limited. The Toyota Corolla is a 5-seater vehicle that comes in 9 trim levels. The most popular style is the LE CVT, which starts at $21,650 and comes with a 1.8L I4 engine and Front Wheel Drive. This Corolla is estimated to deliver 30 MPG in the city and 38 MPG on the highway.",
+    "category": "car",
+    "image": "https://static.tcimg.net/vehicles/primary/1830a4560e93a079/2022-Toyota-Corolla-silver-full_color-driver_side_front_quarter.png"
+  }
+]

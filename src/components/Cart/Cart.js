@@ -3,11 +3,8 @@ import './Cart.css';
 const Cart = () => {
     return (
         <div className='selected-items'>
-            <h4>Selected Items</h4>
-            <h4>Selected Items</h4>
-            <h4>Selected Items</h4>
-            <h4>Selected Items</h4>
-            <h4>Selected Items</h4>
+            <p className='items'>Selected Cars:</p>
+            
         </div>
     );
 };
