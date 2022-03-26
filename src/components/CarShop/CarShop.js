@@ -24,8 +24,12 @@ const CarShop = () => {
             exists.quantity = exists.quantity + 1;
             newCart = [...rest, exists];
         }
-        
         setCart(newCart);
+        if(newCart.length>4)
+        {
+            alert('You can not add more than 4 products')
+            setCart(newCart.slice(0,4));
+        }
     }
 
     const emptyCart = (props) =>{
@@ -35,10 +39,10 @@ const CarShop = () => {
     const chooseRandom = (props) =>{
         var randomItem = cart[Math.floor(Math.random()*cart.length)];
         if(randomItem!=undefined){
-            alert(`The car I choose for you is: '${randomItem.title}', Price is: $${randomItem.price}`);
+            alert(`The car I choose for you is: '${randomItem.title}', Price is: $${randomItem.price}`)
         }
         else(
-            alert('Please add some cars first!');
+            alert('Please add some cars first!')
         )
 
     }
