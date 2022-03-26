@@ -3,6 +3,7 @@
 .heading-text{
     font-family: 'Poppins',sans-serif;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .sub-heading{

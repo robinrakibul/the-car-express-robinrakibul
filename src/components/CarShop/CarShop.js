@@ -34,7 +34,12 @@ const CarShop = () => {
 
     const chooseRandom = (props) =>{
         var randomItem = cart[Math.floor(Math.random()*cart.length)];
-        alert(`The car I choose for you is: '${randomItem.title}', Price is: $${randomItem.price}`);
+        if(randomItem!=undefined){
+            alert(`The car I choose for you is: '${randomItem.title}', Price is: $${randomItem.price}`);
+        }
+        else(
+            alert('Please add some cars first!');
+        )
 
     }
     
