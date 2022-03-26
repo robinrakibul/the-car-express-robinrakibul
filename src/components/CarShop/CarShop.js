@@ -27,6 +27,10 @@ const CarShop = () => {
         
         setCart(newCart);
     }
+
+    const emptyCart = (props) =>{
+        setCart([]);
+    }
     
     
     return (
@@ -37,7 +41,7 @@ const CarShop = () => {
             }
             </div>
             <div className="cart-container">
-                <Cart cart={cart}></Cart>
+                <Cart cart={cart} emptyCart={emptyCart}></Cart>
             </div>
         </div>
     );
