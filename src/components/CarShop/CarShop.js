@@ -31,6 +31,12 @@ const CarShop = () => {
     const emptyCart = (props) =>{
         setCart([]);
     }
+
+    const chooseRandom = (props) =>{
+        var randomItem = cart[Math.floor(Math.random()*cart.length)];
+        alert(`The car I choose for you is: '${randomItem.title}', Price is: $${randomItem.price}`);
+
+    }
     
     
     return (
@@ -41,7 +47,7 @@ const CarShop = () => {
             }
             </div>
             <div className="cart-container">
-                <Cart cart={cart} emptyCart={emptyCart}></Cart>
+                <Cart cart={cart} emptyCart={emptyCart} chooseRandom={chooseRandom}></Cart>
             </div>
         </div>
     );
