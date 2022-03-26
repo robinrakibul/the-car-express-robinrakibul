@@ -18,6 +18,11 @@ const Cart = (props) => {
             </li>  
             ))
             }  
+
+            <div className='d-flex flex-column justify-content-center align-items-center'>
+                <button className='btn btn-outline-success w-50'>Choose 1 for me</button>
+                <button className='btn btn-outline-danger w-50 mt-3'>Choose Again</button>
+            </div>
         </div>
     );
     
